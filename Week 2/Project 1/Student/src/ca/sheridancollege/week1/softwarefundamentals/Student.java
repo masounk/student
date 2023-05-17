@@ -28,6 +28,7 @@ public class Student
      */
     public void setName(String givenName) {
         name = givenName;
+        int hello = 10;
     }
     
     
