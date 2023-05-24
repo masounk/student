@@ -9,7 +9,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * A class to model Student Objects
  * each student has: a name (first an last name)
  * each student can: say their name (getName)
- * 
+ 
+ * @author karanveer 
  * @author dancye May 7, 2018
  */
 public class Student 
